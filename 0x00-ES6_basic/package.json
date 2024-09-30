@@ -1,0 +1,14 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "Project for ALX Frontend JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "josephlaryeanortey",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
